@@ -24,10 +24,11 @@ def caesar(original_text, shift_amount):
                 new_position = (position_alphabet + shift_amount) % 26
             elif direction == "decode":
                 new_position = (position_alphabet - shift_amount) % 26
-            new_letter = str(new_position + ord(alphabet[0]))
+            new_letter = chr(new_position + ord(alphabet[0]))
             result_text += new_letter
         else:
             result_text += letter
     print(f"The {direction}d message is: {result_text}")
+
 
 caesar(original_text = text, shift_amount = shift)
