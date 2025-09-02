@@ -76,4 +76,5 @@ while True:
     elif start == "n":
         break
     else:
-        print("Invalid output. Write 'y' for yes and 'n' for no.")
+
+        print("Invalid input. Write 'y' for yes and 'n' for no.")
