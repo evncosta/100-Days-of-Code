@@ -1,16 +1,19 @@
+# Password Generator - Creates secure passwords with varying complexity
 import random
 
+# Define character sets for password generation
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
 print("Welcome to the PyPassword Generator!")
+
+# Get user preferences for password composition
 nr_letters = int(input("How many letters would you like in your password?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
 
-# Easy version
-
+# Generate easy password (ordered: letters, symbols, numbers)
 password_easy = ""
 for letter in range(nr_letters):
     password_easy += random.choice(letters)
@@ -20,8 +23,7 @@ for number in range(nr_numbers):
     password_easy += random.choice(numbers)
 print(f"Your password with security level EASY is: {password_easy}")
 
-# Hard version
-
+# Generate hard password (randomly shuffled characters)
 password_hard = ""
 for letter in range(nr_letters):
     password_hard += random.choice(letters)
@@ -29,6 +31,8 @@ for symbol in range(nr_symbols):
     password_hard += random.choice(symbols)
 for number in range(nr_numbers):
     password_hard += random.choice(numbers)
+
+# Shuffle characters for enhanced security
 chars = list(password_hard)
 random.shuffle(chars)
 password_hard = "".join(chars)
