@@ -39,7 +39,7 @@ Este bootcamp intensivo de programação cobre:
 | 06 | Beginner | Python Functions & Karel | - | ✅ Completo |
 | 07 | Beginner | Hangman | Hangman Game | ✅ Completo |
 | 08 | Beginner | Function Parameters & Caesar Cipher | Caesar Cipher | ✅ Completo |
-| 09 | Beginner | Dictionaries, Nesting and the Secret Auction | Bidding Game | ✅ Completo |
+| 09 | Beginner | Dictionaries, Nesting and the Secret Auction | Silent Auction Game | ✅ Completo |
 | 10 | Beginner | Functions with Outputs | Calculator | ✅ Completo |
 | 11 | Beginner | The Blackjack Capstone Project | Blackjack Game | ✅ Completo |
 | 12 | Beginner | Scope & Number Guessing Game | Number Guessing Game | ✅ Completo |
