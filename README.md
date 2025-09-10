@@ -46,7 +46,8 @@ Este bootcamp intensivo de programação cobre:
 | 13 | Beginner | Debugging: How to Find and Fix Errors in your Code | - | ✅ Completo |
 | 14 | Beginner | Higher Lower Game Project | Higher or Lower Game | ✅ Completo |
 | 15 | Intermediate | Local Development Environment Setup & the Coffee Machine | Coffee Machine | ✅ Completo |
-| 16 | Intermediate | Object Oriented Programming (OOP) | OOP Coffee Machine | 🔄 Em Andamento |
+| 16 | Intermediate | Object Oriented Programming (OOP) | OOP Coffee Machine | ✅ Completo |
+| 17 | Intermediate | The Quiz Project & the Benefits of OOP | Quiz Project | 🔄 Em Andamento |
 
 ## 🛠️ Tecnologias Utilizadas
 
