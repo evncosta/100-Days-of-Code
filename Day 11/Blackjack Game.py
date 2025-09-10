@@ -1,18 +1,24 @@
+# Blackjack Game - A simplified version of the classic card game
 import random
 from art import logo
 
 def play_blackjack():
+    # Define card values (Ace=11, face cards=10)
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
+    # Deal initial hands to player and computer
     user_cards = random.sample(cards, 2)
     computer_cards = random.sample(cards, 2)
 
+    # Calculate initial scores
     user_score = sum(user_cards)
     computer_score = sum(computer_cards)
 
+    # Display initial game state
     print(f"Your cards: {user_cards}, current score: {user_score}")
     print(f"Computer's first card: {computer_cards[0]}")
 
+    # Check for immediate blackjack wins
     if user_score == 21:
         print("You have a blackjack! You win!")
         return
@@ -20,6 +26,7 @@ def play_blackjack():
         print("The computer has a blackjack! You lose...")
         return
 
+    # Player's turn: draw cards or stand
     while True:
         answer = input("Do you want to draw another card (y/n)? ").lower()
 
@@ -30,6 +37,7 @@ def play_blackjack():
 
             print(f"You drew a {new_card}. Your cards: {user_cards}, current score: {user_score}")
 
+            # Handle Ace value conversion if player busts
             if user_score > 21:
                 while 11 in user_cards and user_score > 21:
                     ace_index = user_cards.index(11)
@@ -43,18 +51,21 @@ def play_blackjack():
         else:
             break
 
+    # Computer's turn: draw until score reaches 17 or higher
     while computer_score < 17:
         new_card = random.choice(cards)
         computer_cards.append(new_card)
         computer_score = sum(computer_cards)
         print(f"Computer drew a {new_card}. Computer's cards: {computer_cards}, current score: {computer_score}")
 
+        # Handle Ace value conversion if computer busts
         while computer_score > 21 and 11 in computer_cards:
             ace_index = computer_cards.index(11)
             computer_cards[ace_index] = 1
             computer_score = sum(computer_cards)
             print(f"Computer's Ace now counts as 1. Computer's cards: {computer_cards}, current score: {computer_score}")
 
+    # Display final results and determine winner
     print(f"Your final hand: {user_cards}, final score: {user_score}")
     print(f"Computer's final hand: {computer_cards}, final score: {computer_score}")
 
@@ -67,6 +78,7 @@ def play_blackjack():
     else:
         print("It's a draw!")
 
+# Main game loop
 while True:
     print(logo)
     start = input("Do you want to play Blackjack (y/n)? ").lower()
