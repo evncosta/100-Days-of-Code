@@ -1,3 +1,4 @@
+# Coffee Machine - Handles drink orders, payment, and resource management
 MENU = {
     "espresso": {
         "ingredients": {
@@ -24,6 +25,7 @@ MENU = {
     }
 }
 
+# Initial resource levels
 resources = {
     "water": 300,
     "milk": 200,
@@ -32,8 +34,8 @@ resources = {
 
 money = 0
 
-
 def check_resources(drink_name):
+    """Check if there are enough resources to make the selected drink"""
     drink = MENU[drink_name]
     ingredients = drink["ingredients"]
     for ingredient, amount_needed in ingredients.items():
@@ -42,23 +44,25 @@ def check_resources(drink_name):
             return False
     return True
 
-
 def make_drink(drink_name):
+    """Deduct required ingredients and serve the drink"""
     drink = MENU[drink_name]
     ingredients = drink["ingredients"]
     for ingredient, amount_needed in ingredients.items():
         resources[ingredient] -= amount_needed
     print(f"Here is your {drink_name}! Enjoy! ☕")
 
-
+# Main program loop
 while True:
     drink_of_choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
 
+    # Handle special commands and invalid inputs
     if drink_of_choice not in ["espresso", "latte", "cappuccino", "report", "off"]:
         print("Invalid input.")
         continue
 
     if drink_of_choice == "report":
+        # Display current resource levels and money
         print(f"Water: {resources['water']}ml")
         print(f"Milk: {resources['milk']}ml")
         print(f"Coffee: {resources['coffee']}g")
@@ -67,15 +71,18 @@ while True:
     elif drink_of_choice == "off":
         break
 
+    # Check if resources are sufficient for the drink
     if not check_resources(drink_of_choice):
         continue
 
+    # Process coin payment
     print("Please insert your coins.")
     quarters = int(input("How many quarters? "))
     dimes = int(input("How many dimes? "))
     nickels = int(input("How many nickels? "))
     pennies = int(input("How many pennies? "))
 
+    # Calculate total payment value
     value_quarter = 0.25
     value_dime = 0.10
     value_nickel = 0.05
@@ -88,6 +95,7 @@ while True:
 
     drink_cost = MENU[drink_of_choice]["cost"]
 
+    # Verify payment and provide change if necessary
     if total_given < drink_cost:
         print("Sorry, that's not enough money. Money refunded.")
     else:
