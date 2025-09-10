@@ -1,6 +1,8 @@
+# Number Guessing Game - Guess a random number with difficulty levels
 from art import logo
 import random
 
+# Generate random number between 1 and 100
 number = random.randint(1, 100)
 
 print(logo)
@@ -14,6 +16,8 @@ def easy_mode():
 
     while chances > 0:
         guess = int(input("Make a guess: "))
+        
+        # Provide feedback and adjust remaining chances
         if guess > number:
             print("Too high.")
             chances -= 1
@@ -26,6 +30,7 @@ def easy_mode():
             print(f"The number was {number}! You win!")
             return
 
+    # Handle game loss when chances run out
     if chances <= 0:
         print(f"You don't have any chances left. The number was {number}. You lost...")
         return
@@ -36,6 +41,8 @@ def hard_mode():
 
     while chances > 0:
         guess = int(input("Make a guess: "))
+        
+        # Provide feedback and adjust remaining chances
         if guess > number:
             print("Too high.")
             chances -= 1
@@ -48,10 +55,12 @@ def hard_mode():
             print(f"The number was {number}! You win!")
             return
 
+    # Handle game loss when chances run out
     if chances <= 0:
         print(f"The number was {number}. You lost...")
         return
 
+# Start game with selected difficulty level
 if difficulty == "easy":
     easy_mode()
 elif difficulty == "hard":
