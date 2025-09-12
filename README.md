@@ -47,7 +47,8 @@ Este bootcamp intensivo de programação cobre:
 | 14 | Beginner | Higher Lower Game Project | Higher or Lower Game | ✅ Completo |
 | 15 | Intermediate | Local Development Environment Setup & the Coffee Machine | Coffee Machine | ✅ Completo |
 | 16 | Intermediate | Object Oriented Programming (OOP) | OOP Coffee Machine | ✅ Completo |
-| 17 | Intermediate | The Quiz Project & the Benefits of OOP | Quiz Project | 🔄 Em Andamento |
+| 17 | Intermediate | The Quiz Project & the Benefits of OOP | Quiz Project | ✅ Completo |
+| 18 | Intermediate | Turtle & the Graphical User Interface (GUI) | The Hirst Painting Project | 🔄 Em Andamento |
 
 ## 🛠️ Tecnologias Utilizadas
 
