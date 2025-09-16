@@ -53,7 +53,8 @@ Este bootcamp intensivo de programação cobre uma ampla gama de tecnologias e c
 | 15 | Intermediate | Local Development Environment Setup & the Coffee Machine | Coffee Machine | ✅ Completo |
 | 16 | Intermediate | Object Oriented Programming (OOP) | OOP Coffee Machine | ✅ Completo |
 | 17 | Intermediate | The Quiz Project & the Benefits of OOP | Quiz Project | ✅ Completo |
-| 18 | Intermediate | Turtle & the Graphical User Interface (GUI) | The Hirst Painting Project | 🔄 Em Andamento |
+| 18 | Intermediate | Turtle & the Graphical User Interface (GUI) | The Hirst Painting Project | ✅ Completo |
+| 19 | Intermediate |  Instances, State and Higher Order Functions | Etch-A-Sketch App + Turtle Racing Game | 🔄 Em Andamento |
 
 ## 🛠️ Tecnologias Utilizadas
 
