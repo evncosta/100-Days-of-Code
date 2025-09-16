@@ -7,15 +7,20 @@ Este repositório contém meus projetos e progresso no curso da Udemy **"100 Day
 
 ## 📚 Visão Geral do Curso
 
-Este bootcamp intensivo de programação cobre:
-- Fundamentos de programação Python
-- Desenvolvimento web com Flask, Jinja e APIs RESTful
-- Ciência de dados com Pandas, NumPy e Matplotlib
-- Desenvolvimento de jogos com PyGame
-- Web scraping com Beautiful Soup e Selenium
-- Automação e scripts
-- Aplicações GUI com Tkinter
-- E muito mais!
+Este bootcamp intensivo de programação cobre uma ampla gama de tecnologias e conceitos, incluindo:
+
+- **Fundamentos de Python 3** e programação moderna
+- **Desenvolvimento de Jogos** com Python e Turtle
+- **Scripting e Automação** para tarefas do dia a dia
+- **Web Scraping** com Beautiful Soup e Selenium Web Driver
+- **Ciência de Dados** com Pandas, NumPy, Matplotlib, Plotly e Scikit-learn
+- **Desenvolvimento Web Front-End** com HTML5, CSS3 e Bootstrap 4
+- **Desenvolvimento Web Backend** com Flask, APIs REST e autenticação
+- **Bancos de Dados** relacionais com SQL, SQLite e PostgreSQL
+- **Desenvolvimento de Apps Desktop** com GUI usando Tkinter
+- **Controle de Versão** com Git, GitHub e linha de comando Bash
+- **Deploy** de aplicações com GitHub Pages, Heroku e GUnicorn
+- **Web Design** e criação de interfaces modernas
 
 ## 🗂️ Estrutura do Repositório
 
@@ -56,14 +61,9 @@ Este bootcamp intensivo de programação cobre:
 - **PyCharm**
 - **Jupyter Notebook**
 - **Google Colab**
-- **Python Scripting and Automation**
-- **Python Game Development**
-- **Web Scraping**
 - **Beautiful Soup**
 - **Selenium Web Driver**
-- **Request**
 - **WTForms**
-- **Data Science**
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
@@ -71,15 +71,12 @@ Este bootcamp intensivo de programação cobre:
 - **Scikit learn**
 - **Seaborn**
 - **Turtle**
-- **Python GUI Desktop App Development**
 - **Tkinter**
-- **Front-End Web Development**
 - **HTML 5**
 - **CSS 3**
 - **Bootstrap 4**
 - **Bash Command Line**
 - **Git, GitHub and Version Control**
-- **Backend Web Development**
 - **Flask**
 - **REST**
 - **APIs**
@@ -87,8 +84,6 @@ Este bootcamp intensivo de programação cobre:
 - **SQL**
 - **SQLite**
 - **PostgreSQL**
-- **Authentication**
-- **Web Design**
 - **Deployment with GitHub Pages, Heroku and GUnicorn**
 
 ## 🔗 Recursos
