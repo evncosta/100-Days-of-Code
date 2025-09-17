@@ -62,7 +62,7 @@ This project was part of **Day 10: Functions with Outputs** in the 100 Days of C
 ```
 Day 10/
 │
-├── main.py    # Main calculator logic
+├── main.py          # Main calculator logic
 ├── art.py           # ASCII art module
 └── README.md        # Project documentation
 ```
