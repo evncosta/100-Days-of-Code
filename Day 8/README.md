@@ -62,7 +62,7 @@ The Caesar cipher works by:
 ## 📁 Project Structure
 
 ```
-Day 8 - Caesar Cipher/
+Day 8/
 │
 ├── main.py             # Main cipher logic
 ├── art.py              # ASCII art module
