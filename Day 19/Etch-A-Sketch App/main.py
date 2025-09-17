@@ -1,4 +1,4 @@
-# Turtle Drawing Program - Interactive drawing with keyboard controls
+# Etch-A-Sketch App - Interactive drawing with keyboard controls
 from turtle import Turtle, Screen
 
 # Initialize turtle and screen
