@@ -60,13 +60,9 @@ This project was part of **Day 19: Instances, State and Higher Order Functions**
 | **D** | Turn Right | Turtle rotates right 10 degrees |
 | **C** | Clear Screen | Clears drawing and returns to center |
 
-## 📝 Example Usage
+## 📝 Example Output
 
-1. Run the program to open a turtle graphics window
-2. Use WASD keys to control the turtle movement
-3. Create drawings by moving the turtle around
-4. Press C to clear the screen and start over
-5. Click the window to exit the program
+![Etch-A-Sketch App Demo](https://github.com/user-attachments/assets/53af2682-69ea-49f4-acbf-abe2ae077271)
 
 ## 🖌️ Creative Possibilities
 
@@ -84,11 +80,6 @@ The program can be easily modified to:
 - Add more keyboard controls
 - Change turtle appearance
 - Modify screen size and colors
-
-## 📝 Example Output
-
-![Etch-A-Sketch App Demo](https://github.com/user-attachments/assets/53af2682-69ea-49f4-acbf-abe2ae077271)
-
 
 ## 🔄 Related Projects
 
