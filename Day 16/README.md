@@ -1,90 +1,101 @@
-# Coffee Machine
+# OOP Coffee Machine
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-A comprehensive coffee machine simulator that handles drink orders, payment processing, and resource management. This project was completed as part of **Day 15** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
+An object-oriented coffee machine implementation that demonstrates proper software architecture with separated concerns and modular design. This project was completed as part of **Day 16** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
 ## 🎯 Project Overview
 
-The Coffee Machine program features:
-- Three drink options: Espresso, Latte, and Cappuccino
-- Real-time resource tracking (water, milk, coffee)
-- Coin-based payment system with change calculation
-- Administrative reporting functionality
-- Resource sufficiency checking
-- Profit tracking system
+The OOP Coffee Machine features:
+- Clean separation of concerns with dedicated classes
+- Menu management with drink objects
+- Resource tracking and validation
+- Payment processing with change calculation
+- Professional object-oriented architecture
+- Maintainable and extensible code structure
 
 ## 🚀 How It Works
 
-1. Users select from available drinks or special commands
-2. The system checks if sufficient resources are available
-3. Users insert coins (quarters, dimes, nickels, pennies)
-4. Payment is verified and change is calculated if needed
-5. Drinks are prepared by deducting required ingredients
-6. Profits are tracked and resources are updated in real-time
+1. **Menu Class**: Handles drink definitions and retrieval
+2. **CoffeeMaker Class**: Manages resources and drink preparation
+3. **MoneyMachine Class**: Processes payments and handles transactions
+4. **Main Program**: Coordinates all components for user interaction
 
 ## 🛠️ Technologies Used
 
 - **Python 3** - Core programming language
-- **Dictionary Data Structures** - Menu and resource storage
-- **Mathematical Operations** - Currency calculations
-- **Function Definitions** - Modular resource checking and drink preparation
-- **Input Validation** - Handling invalid user inputs
-- **Resource Management** - Tracking and deducting ingredients
+- **Object-Oriented Programming** - Classes and encapsulation
+- **Modular Architecture** - Separated concerns across files
+- **Method Chaining** - Clean, readable code flow
+- **Error Handling** - Graceful failure handling
+- **Type Hints** - Better code documentation
 
 ## 📋 Learning Objectives
 
 This project helped reinforce understanding of:
-- Complex data structures with nested dictionaries
-- Resource management and state tracking
-- Monetary calculations and change handling
-- Function modularization and separation of concerns
-- User input validation and error handling
-- Real-world application simulation
+- Object-Oriented Programming principles
+- Class design and responsibility separation
+- Modular architecture and file organization
+- Method encapsulation and interface design
+- Code maintainability and extensibility
+- Professional software development practices
 
 ## 🎓 Course Context
 
-This project was part of **Day 15: Local Development Environment Setup & the Coffee Machine** in the 100 Days of Code curriculum. It marks the transition to intermediate-level projects and local development.
+This project was part of **Day 16: Object Oriented Programming (OOP)** in the 100 Days of Code curriculum. It demonstrates the evolution from procedural to object-oriented programming.
 
-## ☕ Drink Specifications
+## 📁 Project Structure
 
-| Drink | Water | Milk | Coffee | Cost |
-|-------|-------|------|--------|------|
-| Espresso | 50ml | 0ml | 18g | $1.50 |
-| Latte | 200ml | 150ml | 24g | $2.50 |
-| Cappuccino | 250ml | 100ml | 24g | $3.00 |
+```
+Day 16 - OOP Coffee Machine/
+│
+├── main.py              # Main program interface
+├── menu.py              # Menu class and drink management
+├── coffee_maker.py      # Resource handling and drink preparation
+├── money_machine.py     # Payment processing functionality
+└── README.md            # Project documentation
+```
 
-## 💰 Coin Values
+## 🏗️ Architecture Design
 
-- Quarter = $0.25
-- Dime = $0.10  
-- Nickel = $0.05
-- Penny = $0.01
+### Menu Class
+- Stores drink definitions and prices
+- Provides drink lookup functionality
+- Manages available menu items
 
-## 🎮 Special Commands
+### CoffeeMaker Class
+- Tracks resource levels (water, milk, coffee)
+- Checks resource sufficiency for drinks
+- Prepares drinks and deducts resources
+- Generates resource reports
 
-- **report**: Shows current resource levels and money
-- **off**: Turns off the coffee machine
+### MoneyMachine Class
+- Processes coin payments
+- Calculates change
+- Tracks revenue
+- Generates financial reports
 
 ## 📝 Example Output
 
 ```
 What would you like? (espresso/latte/cappuccino): latte
-Please insert your coins.
-How many quarters? 4
-How many dimes? 2  
-How many nickels? 1
+Please insert coins.
+How many quarters? 10
+How many dimes? 2
+How many nickels? 1  
 How many pennies? 3
-Here is $0.08 in change!
-Here is your latte! Enjoy! ☕
+Here is $0.08 in change.
+Here is your latte ☕. Enjoy!
 
 What would you like? (espresso/latte/cappuccino): report
 Water: 100ml
 Milk: 50ml
 Coffee: 76g
 Money: $2.5
+
+What would you like? (espresso/latte/cappuccino): off
 ```
 
 ## 🔄 Related Projects
