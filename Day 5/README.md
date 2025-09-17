@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 A secure password generator that creates customizable passwords with varying complexity levels. This project was completed as part of **Day 5** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
