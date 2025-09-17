@@ -26,7 +26,7 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 
 ```
 ├── Day 1/                    # Day 1: Working with Variables in Python
-│   ├── README.md             # Theoretical explanation
+│   ├── README.md             # Project documentarion
 │   └── project               # Project
 ├── Day 2/
 ├── ...
