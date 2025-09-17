@@ -80,6 +80,7 @@ Day 11/
 `-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
       |  \/ K|                            _/ |                
       `------'                           |__/           
+
 Do you want to play Blackjack (y/n)? y
 Your cards: [8, 10], current score: 18
 Computer's first card: 7
