@@ -58,7 +58,7 @@ This project was part of **Day 7: Hangman** in the 100 Days of Code curriculum. 
 ## 📁 Project Structure
 
 ```
-Day 7 - Hangman/
+Day 7/
 │
 ├── main.py             # Main game logic
 ├── hangman_words.py    # Word list module
