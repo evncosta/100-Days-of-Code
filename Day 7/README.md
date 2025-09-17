@@ -55,6 +55,17 @@ This project was part of **Day 7: Hangman** in the 100 Days of Code curriculum. 
 - **Real-time Updates**: Display updates after each guess
 - **Win/Lose Conditions**: Clear end-game messages
 
+## 📁 Project Structure
+
+```
+Day 7 - Hangman/
+│
+├── main.py             # Main game logic
+├── hangman_words.py    # Word list module
+├── hangman_art.py      # ASCII art module
+└── README.md           # Project documentation
+```
+
 ## 📝 Example Output
 
 ```
