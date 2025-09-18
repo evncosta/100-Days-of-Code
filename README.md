@@ -56,7 +56,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 17 | Intermediate | The Quiz Project & the Benefits of OOP | Quiz Project | ✅ Complete |
 | 18 | Intermediate | Turtle & the Graphical User Interface (GUI) | The Hirst Painting Project | ✅ Complete |
 | 19 | Intermediate | Instances, State and Higher Order Functions | Etch-A-Sketch App + Turtle Racing Game | ✅ Complete |
-| 20 | Intermediate |  Build the Snake Game Part 1: Animation & Coordinates | Snake Game Part 1 | 🔄 In Progress |
+| 20 | Intermediate |  Build the Snake Game Part 1: Animation & Coordinates | Snake Game Part 1 | ✅ Complete |
+| 20 | Intermediate |   Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game Part 2 | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
