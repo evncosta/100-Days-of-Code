@@ -40,10 +40,11 @@ for _ in range(10):
         if i < 9:
             t.forward(spacing)  # Move to next column
     # Return to start of row and move down
-    t.backward(spacing * 10 - spacing)
+    t.backward(spacing * 9)
     t.left(90)
     t.forward(spacing)
     t.right(90)
 
 # Keep window open until click
 screen.exitonclick()
+
