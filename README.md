@@ -25,7 +25,7 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 ## 🗂️ Repository Structure
 
 ```
-├── Day 1/                    # Day 1: Working with Variables in Python
+├── Day 1/                    # Day 1: Working with Variables in Python to Manage Data
 │   ├── README.md             # Project documentation
 │   └── project               # Project
 ├── Day 2/
