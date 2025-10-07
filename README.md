@@ -59,7 +59,7 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 20 | Intermediate | Build the Snake Game Part 1: Animation & Coordinates | Snake Game Part 1 | ✅ Complete |
 | 21 | Intermediate | Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game Part 2 | ✅ Complete |
 | 22 | Intermediate | Build Pong: The Famous Arcade Game | Pong Game | ✅ Complete |
-| 23 | Intermediate | The Turtle Crossing Capstone Project | Turtle Crossing Capstone Project | 🔄 In Progress |
+| 23 | Intermediate | The Turtle Crossing Capstone Project | Turtle Crossing Game | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
