@@ -7,7 +7,6 @@ STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 10
 
 class CarManager:
-
     def __init__(self):
         self.cars = []  # List to store all active cars
         self.starting_speed = STARTING_MOVE_DISTANCE  # Initial car speed
