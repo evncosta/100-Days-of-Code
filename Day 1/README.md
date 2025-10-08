@@ -6,6 +6,10 @@
 
 A simple Python program that generates creative band names based on user input. This project was completed as part of **Day 1** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 1: Working with Variables in Python to Manage Data** in the 100 Days of Code curriculum. It serves as an introduction to fundamental programming concepts that form the foundation for more complex projects later in the course.
+
 ## 🎯 Project Overview
 
 The Band Name Generator is a beginner-friendly Python application that:
@@ -35,10 +39,6 @@ This project helped reinforce understanding of:
 - Using the `input()` function for user input
 - String concatenation and formatting
 - Variable assignment and usage
-
-## 🎓 Course Context
-
-This project was part of **Day 1: Working with Variables in Python to Manage Data** in the 100 Days of Code curriculum. It serves as an introduction to fundamental programming concepts that form the foundation for more complex projects later in the course.
 
 ## 📝 Example Output
 
