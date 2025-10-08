@@ -6,6 +6,10 @@
 
 A classic Rock Paper Scissors game implemented in Python with ASCII art visuals. This project was completed as part of **Day 4** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 4: Randomisation and Python Lists** in the 100 Days of Code curriculum. It combines random number generation with list manipulation to create an engaging game experience.
+
 ## 🎯 Project Overview
 
 The Rock Paper Scissors game features:
@@ -40,10 +44,6 @@ This project helped reinforce understanding of:
 - Creating interactive console applications
 - Using mathematical operations for game mechanics
 - Handling user input and validation
-
-## 🎓 Course Context
-
-This project was part of **Day 4: Randomisation and Python Lists** in the 100 Days of Code curriculum. It combines random number generation with list manipulation to create an engaging game experience.
 
 ## 🎮 Game Rules
 
