@@ -6,6 +6,10 @@
 
 An interactive drawing application that allows users to create digital art using keyboard controls with Python's Turtle graphics. This project was completed as part of **Day 19** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 19: Instances, State and Higher Order Functions** in the 100 Days of Code curriculum. It demonstrates practical application of event handling and state management.
+
 ## 🎯 Project Overview
 
 The Turtle Drawing Program features:
@@ -45,10 +49,6 @@ This project helped reinforce understanding of:
 - Interactive application development
 - State management (pen up/down)
 - Screen clearing and reset functionality
-
-## 🎓 Course Context
-
-This project was part of **Day 19: Instances, State and Higher Order Functions** in the 100 Days of Code curriculum. It demonstrates practical application of event handling and state management.
 
 ## 🎮 Control Scheme
 
