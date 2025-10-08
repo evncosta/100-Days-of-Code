@@ -6,6 +6,10 @@
 
 An interactive quiz application that pulls questions from external data sources and tracks user performance. This project was completed as part of **Day 17** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 17: The Quiz Project & the Benefits of OOP** in the 100 Days of Code curriculum. It demonstrates the practical benefits of object-oriented design for creating maintainable, scalable applications.
+
 ## 🎯 Project Overview
 
 The Quiz Game features:
@@ -44,10 +48,6 @@ This project helped reinforce understanding of:
 - Randomization techniques
 - User input validation
 - Score tracking and progress reporting
-
-## 🎓 Course Context
-
-This project was part of **Day 17: The Quiz Project & the Benefits of OOP** in the 100 Days of Code curriculum. It demonstrates the practical benefits of object-oriented design for creating maintainable, scalable applications.
 
 ## 📁 Project Structure
 
