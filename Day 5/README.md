@@ -6,6 +6,10 @@
 
 A secure password generator that creates customizable passwords with varying complexity levels. This project was completed as part of **Day 5** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 5: Python Loops** in the 100 Days of Code curriculum. It demonstrates practical application of loops for repetitive tasks and character generation.
+
 ## 🎯 Project Overview
 
 The Password Generator offers:
@@ -41,10 +45,6 @@ This project helped reinforce understanding of:
 - User input handling and validation
 - List shuffling and joining operations
 - Creating practical, real-world applications
-
-## 🎓 Course Context
-
-This project was part of **Day 5: Python Loops** in the 100 Days of Code curriculum. It demonstrates practical application of loops for repetitive tasks and character generation.
 
 ## 🔒 Security Features
 
