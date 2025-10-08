@@ -6,6 +6,10 @@
 
 A practical Python application that calculates how much each person should pay when splitting a bill with a tip included. This project was completed as part of **Day 2** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 2: Understanding Data Types and How to Manipulate Strings** in the 100 Days of Code curriculum. It builds on fundamental programming concepts while introducing mathematical operations and more complex data handling.
+
 ## 🎯 Project Overview
 
 The Tip Calculator is a useful Python tool that:
@@ -40,10 +44,6 @@ This project helped reinforce understanding of:
 - Rounding numerical values
 - Formatted string literals (f-strings)
 - User input handling and validation
-
-## 🎓 Course Context
-
-This project was part of **Day 2: Understanding Data Types and How to Manipulate Strings** in the 100 Days of Code curriculum. It builds on fundamental programming concepts while introducing mathematical operations and more complex data handling.
 
 ## 📝 Example Output
 
