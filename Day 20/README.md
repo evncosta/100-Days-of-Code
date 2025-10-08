@@ -6,6 +6,10 @@
 
 The first part of the classic Snake game implementation, featuring snake movement, keyboard controls, and basic game mechanics. This project was completed as part of **Day 20** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 20: Build the Snake Game Part 1: Animation & Coordinates** in the 100 Days of Code curriculum. It focuses on the foundational mechanics of game development.
+
 ## 🎯 Project Overview
 
 Snake Game Part 1 features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Manual screen updates for smooth animation
 - Coordinate-based movement systems
 - Multi-segment object management
-
-## 🎓 Course Context
-
-This project was part of **Day 20: Build the Snake Game Part 1: Animation & Coordinates** in the 100 Days of Code curriculum. It focuses on the foundational mechanics of game development.
 
 ## 🎮 Controls
 
