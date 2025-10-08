@@ -60,7 +60,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 21 | Intermediate | Build the Snake Game Part 2: Inheritance & List Slicing | Snake Game Part 2 | ✅ Complete |
 | 22 | Intermediate | Build Pong: The Famous Arcade Game | Pong Game | ✅ Complete |
 | 23 | Intermediate | The Turtle Crossing Capstone Project | Turtle Crossing Game | ✅ Complete |
-| 24 | Intermediate | Files, Directories and Paths | Mail Merge Project | 🔄 In Progress |
+| 24 | Intermediate | Files, Directories and Paths | Mail Merge Project | ✅ Complete |
+| 25 | Intermediate | Working with CSV Data and the Pandas Library | U.S. States Game | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
