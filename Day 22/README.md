@@ -6,6 +6,10 @@
 
 A classic two-player Pong game implementation featuring paddle controls, ball physics, and real-time scoring. This project was completed as part of **Day 22** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 22: Pong Game** in the 100 Days of Code curriculum. It demonstrates classic arcade game development principles.
+
 ## 🎯 Project Overview
 
 The Pong Game features:
@@ -44,10 +48,6 @@ This project helped reinforce understanding of:
 - Two-player game mechanics
 - Score tracking and display systems
 - Game state management and object interaction
-
-## 🎓 Course Context
-
-This project was part of **Day 22: Pong Game** in the 100 Days of Code curriculum. It demonstrates classic arcade game development principles.
 
 ## 🎮 Controls
 
