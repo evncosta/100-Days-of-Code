@@ -6,6 +6,10 @@
 
 A dedicated day focused on developing essential debugging skills and learning systematic approaches to identifying and fixing code errors. This learning day was part of **Day 13** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This day was part of **Day 13: Debugging: How to Find and Fix Errors in your Code** in the 100 Days of Code curriculum. It provided essential skills for identifying and resolving issues in code, which is critical for all subsequent programming work.
+
 ## 🎯 Day Overview
 
 Day 13 focused on building critical debugging competencies through:
@@ -42,10 +46,6 @@ This day helped reinforce understanding of:
 - **Divide and Conquer**: Isolating sections of code to test independently
 - **Assumption Checking**: Verifying that code assumptions hold true
 - **Rubber Duck Debugging**: Explaining code problems to identify issues
-
-## 🎓 Course Context
-
-This day was part of **Day 13: Debugging: How to Find and Fix Errors in your Code** in the 100 Days of Code curriculum. It provided essential skills for identifying and resolving issues in code, which is critical for all subsequent programming work.
 
 ## 💡 Key Takeaways
 
