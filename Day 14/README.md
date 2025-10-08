@@ -6,6 +6,10 @@
 
 An engaging social media guessing game where players compare which celebrity has more Instagram followers. This project was completed as part of **Day 14** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 14: Higher Lower Game Project** in the 100 Days of Code curriculum. It demonstrates practical application of data manipulation and game design principles.
+
 ## 🎯 Project Overview
 
 The Higher or Lower game features:
@@ -44,10 +48,6 @@ This project helped reinforce understanding of:
 - User input validation and error handling
 - Score tracking and progressive difficulty
 - Modular code organization with multiple files
-
-## 🎓 Course Context
-
-This project was part of **Day 14: Higher Lower Game Project** in the 100 Days of Code curriculum. It demonstrates practical application of data manipulation and game design principles.
 
 ## 📊 Data Structure
 
