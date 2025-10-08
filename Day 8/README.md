@@ -6,6 +6,10 @@
 
 A classic encryption and decryption tool that implements the Caesar cipher algorithm, one of the oldest and simplest encryption techniques. This project was completed as part of **Day 8** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 8: Function Parameters & Caesar Cipher** in the 100 Days of Code curriculum. It demonstrates practical application of function parameters and advanced string manipulation.
+
 ## 🎯 Project Overview
 
 The Caesar Cipher program features:
@@ -44,10 +48,6 @@ This project helped reinforce understanding of:
 - Function parameters and return values
 - Input validation and error handling
 - String iteration and manipulation techniques
-
-## 🎓 Course Context
-
-This project was part of **Day 8: Function Parameters & Caesar Cipher** in the 100 Days of Code curriculum. It demonstrates practical application of function parameters and advanced string manipulation.
 
 ## 🔐 Encryption Algorithm
 
