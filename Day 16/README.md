@@ -6,6 +6,10 @@
 
 An object-oriented coffee machine implementation that demonstrates proper software architecture with separated concerns and modular design. This project was completed as part of **Day 16** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 16: Object Oriented Programming (OOP)** in the 100 Days of Code curriculum. It demonstrates the evolution from procedural to object-oriented programming.
+
 ## 🎯 Project Overview
 
 The OOP Coffee Machine features:
@@ -41,10 +45,6 @@ This project helped reinforce understanding of:
 - Method encapsulation and interface design
 - Code maintainability and extensibility
 - Professional software development practices
-
-## 🎓 Course Context
-
-This project was part of **Day 16: Object Oriented Programming (OOP)** in the 100 Days of Code curriculum. It demonstrates the evolution from procedural to object-oriented programming.
 
 ## 📁 Project Structure
 
