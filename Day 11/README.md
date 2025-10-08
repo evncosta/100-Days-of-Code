@@ -6,6 +6,10 @@
 
 A simplified version of the classic casino card game Blackjack, also known as 21. This capstone project was completed as part of **Day 11** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 11: The Blackjack Capstone Project** in the 100 Days of Code curriculum. It represents a comprehensive application of all concepts learned in the beginner section.
+
 ## 🎯 Project Overview
 
 The Blackjack game features:
@@ -45,10 +49,6 @@ This project helped reinforce understanding of:
 - Modular programming with functions
 - AI behavior implementation for computer opponent
 - Edge case handling (Aces, bust conditions, blackjacks)
-
-## 🎓 Course Context
-
-This project was part of **Day 11: The Blackjack Capstone Project** in the 100 Days of Code curriculum. It represents a comprehensive application of all concepts learned in the beginner section.
 
 ## 🎮 Game Rules
 
