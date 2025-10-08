@@ -6,6 +6,10 @@
 
 A challenging number guessing game with multiple difficulty levels that tests your intuition and deduction skills. This project was completed as part of **Day 12** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 12: Scope & Number Guessing Game** in the 100 Days of Code curriculum. It demonstrates practical application of scope concepts and game design principles.
+
 ## 🎯 Project Overview
 
 The Number Guessing Game features:
@@ -44,10 +48,6 @@ This project helped reinforce understanding of:
 - Difficulty level implementation
 - Game state management and attempt tracking
 - Clean program flow and organization
-
-## 🎓 Course Context
-
-This project was part of **Day 12: Scope & Number Guessing Game** in the 100 Days of Code curriculum. It demonstrates practical application of scope concepts and game design principles.
 
 ## 🎮 Difficulty Levels
 
