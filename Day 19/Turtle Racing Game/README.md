@@ -6,6 +6,10 @@
 
 An exciting turtle racing game where players bet on which colored turtle will win a randomized race. This project was completed as part of **Day 19** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 19: Instances, State and Higher Order Functions** in the 100 Days of Code curriculum. It demonstrates object management and interactive programming.
+
 ## 🎯 Project Overview
 
 The Turtle Race Game features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Coordinate-based collision detection
 - Game state management with boolean flags
 - List operations for managing multiple objects
-
-## 🎓 Course Context
-
-This project was part of **Day 19: Instances, State and Higher Order Functions** in the 100 Days of Code curriculum. It demonstrates object management and interactive programming.
 
 ## 🐢 Turtle Colors Available
 
