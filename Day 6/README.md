@@ -6,6 +6,10 @@
 
 A day dedicated to learning fundamental programming concepts through interactive exercises on Reeborg's World. This project was completed as part of **Day 6** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This day was part of **Day 6: Python Functions & Karel** in the 100 Days of Code curriculum. It provided essential foundation in function concepts that are critical for more complex programming tasks in subsequent days.
+
 ## 🎯 Day Overview
 
 Day 6 focused on building core programming skills through:
@@ -37,10 +41,6 @@ This day helped reinforce understanding of:
 - How parameters allow functions to work with different data
 - How return values enable functions to produce results
 - Basic algorithmic thinking and problem-solving strategies
-
-## 🎓 Course Context
-
-This day was part of **Day 6: Python Functions & Karel** in the 100 Days of Code curriculum. It provided essential foundation in function concepts that are critical for more complex programming tasks in subsequent days.
 
 ## 🧩 Exercise Types
 
