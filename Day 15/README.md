@@ -6,6 +6,10 @@
 
 A comprehensive coffee machine simulator that handles drink orders, payment processing, and resource management. This project was completed as part of **Day 15** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 15: Local Development Environment Setup & the Coffee Machine** in the 100 Days of Code curriculum. It marks the transition to intermediate-level projects and local development.
+
 ## 🎯 Project Overview
 
 The Coffee Machine program features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Function modularization and separation of concerns
 - User input validation and error handling
 - Real-world application simulation
-
-## 🎓 Course Context
-
-This project was part of **Day 15: Local Development Environment Setup & the Coffee Machine** in the 100 Days of Code curriculum. It marks the transition to intermediate-level projects and local development.
 
 ## ☕ Drink Specifications
 
