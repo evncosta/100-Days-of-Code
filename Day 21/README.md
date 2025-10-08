@@ -6,6 +6,10 @@
 
 The complete implementation of the classic Snake game featuring food collection, scoring, collision detection, and game over conditions. This project was completed as part of **Day 21** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 21: Build the Snake Game Part 2: Inheritance & List Slicing** in the 100 Days of Code curriculum. It completes the Snake game with advanced features.
+
 ## 🎯 Project Overview
 
 Snake Game Part 2 builds upon the foundation from Part 1 and adds:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Object interaction and coordination
 - Game state management
 - Modular game architecture with multiple classes
-
-## 🎓 Course Context
-
-This project was part of **Day 21: Build the Snake Game Part 2: Inheritance & List Slicing** in the 100 Days of Code curriculum. It completes the Snake game with advanced features.
 
 ## 🎮 Game Features
 
