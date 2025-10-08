@@ -6,6 +6,10 @@
 
 A digital art generator that creates colorful dot grid patterns inspired by Damien Hirst's famous spot paintings. This project was completed as part of **Day 18** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 18: Turtle & the Graphical User Interface (GUI)** in the 100 Days of Code curriculum. It introduces graphical programming and visual output creation.
+
 ## 🎯 Project Overview
 
 The Hirst Painting Project features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Screen dimension calculations and positioning
 - Random selection from predefined sets
 - Visual programming and algorithmic art
-
-## 🎓 Course Context
-
-This project was part of **Day 18: Turtle & the Graphical User Interface (GUI)** in the 100 Days of Code curriculum. It introduces graphical programming and visual output creation.
 
 ## 🎨 Artistic Features
 
