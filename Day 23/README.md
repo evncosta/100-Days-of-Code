@@ -6,6 +6,10 @@
 
 A challenging road-crossing game where players navigate a turtle across increasingly busy traffic. This project was completed as part of **Day 23** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 23: Turtle Crossing Game** in the 100 Days of Code curriculum. It demonstrates side-scrolling game mechanics and dynamic difficulty.
+
 ## 🎯 Project Overview
 
 The Turtle Crossing Game features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - Score tracking and level progression
 - Game state transitions (win/lose conditions)
 - Object coordination in real-time games
-
-## 🎓 Course Context
-
-This project was part of **Day 23: Turtle Crossing Game** in the 100 Days of Code curriculum. It demonstrates side-scrolling game mechanics and dynamic difficulty.
 
 ## 🎮 Controls
 
