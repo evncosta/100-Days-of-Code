@@ -6,6 +6,10 @@
 
 A classic word-guessing game implemented in Python with ASCII art visuals and interactive gameplay. This project was completed as part of **Day 7** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 7: Hangman** in the 100 Days of Code curriculum. It represents a significant step up in complexity, combining multiple programming concepts into a complete game application.
+
 ## 🎯 Project Overview
 
 The Hangman game features:
@@ -42,10 +46,6 @@ This project helped reinforce understanding of:
 - Set operations for efficient data tracking
 - ASCII art integration for visual feedback
 - User input validation and error handling
-
-## 🎓 Course Context
-
-This project was part of **Day 7: Hangman** in the 100 Days of Code curriculum. It represents a significant step up in complexity, combining multiple programming concepts into a complete game application.
 
 ## 🎮 Game Features
 
