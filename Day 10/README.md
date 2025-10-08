@@ -6,6 +6,10 @@
 
 A fully functional calculator application that performs basic arithmetic operations with a continuous calculation feature. This project was completed as part of **Day 10** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 10: Functions with Outputs** in the 100 Days of Code curriculum. It demonstrates practical application of functions that return values and more complex program flow control.
+
 ## 🎯 Project Overview
 
 The Calculator program features:
@@ -45,10 +49,6 @@ This project helped reinforce understanding of:
 - Recursive function calls
 - Modular program design
 - User interface design for console applications
-
-## 🎓 Course Context
-
-This project was part of **Day 10: Functions with Outputs** in the 100 Days of Code curriculum. It demonstrates practical application of functions that return values and more complex program flow control.
 
 ## 🔢 Operations Supported
 
