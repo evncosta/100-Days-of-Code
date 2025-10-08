@@ -6,6 +6,10 @@
 
 An interactive text-based adventure game where players make choices to find treasure or meet their doom. This project was completed as part of **Day 3** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 3: Control Flow and Logical Operators** in the 100 Days of Code curriculum. It demonstrates practical application of conditional logic to create an interactive experience with multiple possible outcomes.
+
 ## 🎯 Project Overview
 
 Treasure Island is a classic choose-your-own-adventure game that:
@@ -38,10 +42,6 @@ This project helped reinforce understanding of:
 - User input processing and case normalization (.lower())
 - Program flow control and branching logic
 - Basic game design principles for text-based adventures
-
-## 🎓 Course Context
-
-This project was part of **Day 3: Control Flow and Logical Operators** in the 100 Days of Code curriculum. It demonstrates practical application of conditional logic to create an interactive experience with multiple possible outcomes.
 
 ## 🎮 Game Decisions
 
