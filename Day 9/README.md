@@ -6,6 +6,10 @@
 
 A discreet auction system that collects bids privately and determines the highest bidder. This project was completed as part of **Day 9** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
 
+## 🎓 Course Context
+
+This project was part of **Day 9: Dictionaries, Nesting and the Secret Auction** in the 100 Days of Code curriculum. It demonstrates practical application of dictionaries for data storage and retrieval.
+
 ## 🎯 Project Overview
 
 The Silent Auction program features:
@@ -43,10 +47,6 @@ This project helped reinforce understanding of:
 - User input validation and error handling
 - Data privacy techniques in console applications
 - Finding maximum values in dictionaries using custom keys
-
-## 🎓 Course Context
-
-This project was part of **Day 9: Dictionaries, Nesting and the Secret Auction** in the 100 Days of Code curriculum. It demonstrates practical application of dictionaries for data storage and retrieval.
 
 ## 🔒 Privacy Features
 
