@@ -63,7 +63,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 24 | Intermediate | Files, Directories and Paths | Mail Merge Project | ✅ Complete |
 | 25 | Intermediate | Working with CSV Data and the Pandas Library | U.S. States Game | ✅ Complete |
 | 26 | Intermediate | List Comprehension and the NATO Alphabet | NATO Alphabet Project | ✅ Complete |
-| 27 | Intermediate | Tkinter, *args, **kwargs and Creating GUI Programs | Mile to Kilometers Converter Project | 🔄 In Progress |
+| 27 | Intermediate | Tkinter, *args, **kwargs and Creating GUI Programs | Miles to Kilometers Converter Project | ✅ Complete |
+| 27 | Intermediate | Tkinter, Dynamic Typing and the Pomodoro GUI Application | Pomodoro GUI Application | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
