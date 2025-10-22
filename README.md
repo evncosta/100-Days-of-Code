@@ -64,7 +64,9 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 25 | Intermediate | Working with CSV Data and the Pandas Library | U.S. States Game | ✅ Complete |
 | 26 | Intermediate | List Comprehension and the NATO Alphabet | NATO Alphabet Project | ✅ Complete |
 | 27 | Intermediate | Tkinter, *args, **kwargs and Creating GUI Programs | Miles to Kilometers Converter Project | ✅ Complete |
-| 27 | Intermediate | Tkinter, Dynamic Typing and the Pomodoro GUI Application | Pomodoro GUI Application | 🔄 In Progress |
+| 28 | Intermediate | Tkinter, Dynamic Typing and the Pomodoro GUI Application | Pomodoro GUI Application | ✅ Complete |
+| 29 | Intermediate | Building a Password Manager GUI App with Tkinter | Password Manager Application | ✅ Complete |
+| 30 | Intermediate | Errors, Exceptions and JSON Data: Improving the Password | Improved Password Manager Application | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
