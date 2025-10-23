@@ -1,7 +1,7 @@
 # OOP Coffee Machine
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 An object-oriented coffee machine implementation that demonstrates proper software architecture with separated concerns and modular design. This project was completed as part of **Day 16** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
