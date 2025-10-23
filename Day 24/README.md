@@ -1,7 +1,7 @@
 # Mail Merge Project
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 An automated mail merge system that generates personalized letters from a template and name list. This project was completed as part of **Day 24** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
