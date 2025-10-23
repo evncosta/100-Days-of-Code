@@ -66,7 +66,9 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 27 | Intermediate | Tkinter, *args, **kwargs and Creating GUI Programs | Miles to Kilometers Converter Project | ✅ Complete |
 | 28 | Intermediate | Tkinter, Dynamic Typing and the Pomodoro GUI Application | Pomodoro GUI Application | ✅ Complete |
 | 29 | Intermediate | Building a Password Manager GUI App with Tkinter | Password Manager Application | ✅ Complete |
-| 30 | Intermediate | Errors, Exceptions and JSON Data: Improving the Password | Improved Password Manager Application | 🔄 In Progress |
+| 30 | Intermediate | Errors, Exceptions and JSON Data: Improving the Password | Improved Password Manager Application | ✅ Complete |
+| 31 | Intermediate | Flash Card App Capstone Project | Flash Card Project | ✅ Complete |
+| 32 | Intermediate+ | Send Email (smtplib) & Manage Dates (datetime) | ISS Overhead Notifier Project | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
