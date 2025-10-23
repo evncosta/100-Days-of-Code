@@ -1,7 +1,7 @@
 # Snake Game - Part 1
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 The first part of the classic Snake game implementation, featuring snake movement, keyboard controls, and basic game mechanics. This project was completed as part of **Day 20** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
