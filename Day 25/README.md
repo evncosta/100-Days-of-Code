@@ -1,7 +1,7 @@
 # U.S. States Game
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 An interactive geography quiz that tests knowledge of U.S. states using turtle graphics and data processing. This project was completed as part of **Day 25** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
