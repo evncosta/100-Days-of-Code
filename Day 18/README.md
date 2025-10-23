@@ -1,7 +1,7 @@
 # The Hirst Painting Project
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 A digital art generator that creates colorful dot grid patterns inspired by Damien Hirst's famous spot paintings. This project was completed as part of **Day 18** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
