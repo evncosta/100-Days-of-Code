@@ -1,7 +1,7 @@
 # Turtle Race Game
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 An exciting turtle racing game where players bet on which colored turtle will win a randomized race. This project was completed as part of **Day 19** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
