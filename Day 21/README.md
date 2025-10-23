@@ -1,7 +1,7 @@
 # Snake Game - Part 2
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 The complete implementation of the classic Snake game featuring food collection, scoring, collision detection, and game over conditions. This project was completed as part of **Day 21** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
