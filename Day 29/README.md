@@ -1,7 +1,7 @@
 # Password Manager
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 A secure password management application with automatic password generation and storage capabilities. This project was completed as part of **Day 29** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
