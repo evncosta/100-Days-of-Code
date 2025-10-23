@@ -1,7 +1,7 @@
 # Miles to Kilometers Converter
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 A graphical user interface application that converts miles to kilometers using tkinter. This project was completed as part of **Day 27** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
