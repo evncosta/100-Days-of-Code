@@ -69,7 +69,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 30 | Intermediate | Errors, Exceptions and JSON Data: Improving the Password | Improved Password Manager Application | ✅ Complete |
 | 31 | Intermediate | Flash Card App Capstone Project | Flash Card Project | ✅ Complete |
 | 32 | Intermediate+ | Send Email (smtplib) & Manage Dates (datetime) | Automated Birthday Wisher Project | ✅ Complete |
-| 33 | Intermediate+ | API Endpoints & API Parameters - ISS Overhead Notifier | ISS Overhead Notifier Project | 🔄 In Progress |
+| 33 | Intermediate+ | API Endpoints & API Parameters - ISS Overhead Notifier | ISS Overhead Notifier Project | ✅ Complete |
+| 34 | Intermediate+ | API Practice - Creating a GUI Quiz App | Quiz App Project | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
