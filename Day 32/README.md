@@ -139,15 +139,6 @@ with smtplib.SMTP("smtp.mail.yahoo.com", 587) as connection:
 - Set program to Python executable
 - Add script path as argument
 
-## 🔄 Extension Possibilities
-
-- Add attachment support for birthday cards
-- Include SMS notifications via Twilio
-- Create web interface for managing birthdays
-- Add reminder notifications before birthdays
-- Implement holiday greeting system
-- Add analytics for sent emails
-
 ## 🔄 Related Projects
 
 This project is part of a series of exercises in the 100 Days of Code course. Check out my progress on other days in the main repository.
