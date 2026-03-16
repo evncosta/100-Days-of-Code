@@ -132,13 +132,6 @@ with smtplib.SMTP("smtp.mail.yahoo.com", 587) as connection:
 4. **Schedule Execution**: Set up cron job or task scheduler to run daily
 5. **Monitor Results**: Check console output for sent emails
 
-## ⚙️ Automation Setup
-
-### Windows Task Scheduler:
-- Create basic task to run daily
-- Set program to Python executable
-- Add script path as argument
-
 ## 🔄 Related Projects
 
 This project is part of a series of exercises in the 100 Days of Code course. Check out my progress on other days in the main repository.
