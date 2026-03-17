@@ -70,7 +70,7 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 31 | Intermediate | Flash Card App Capstone Project | Flash Card Project | ✅ Complete |
 | 32 | Intermediate+ | Send Email (smtplib) & Manage Dates (datetime) | Automated Birthday Wisher Project | ✅ Complete |
 | 33 | Intermediate+ | API Endpoints & API Parameters - ISS Overhead Notifier | ISS Overhead Notifier Project | ✅ Complete |
-| 34 | Intermediate+ | API Practice - Creating a GUI Quiz App | Quiz App Project | ✅ Complete |
+| 34 | Intermediate+ | API Practice - Creating a GUI Quiz App | Quizzler App Project | ✅ Complete |
 | 35 | Intermediate+ | Keys, Authentication & Environment Variables: Send SMS | Rain Alert Project | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
