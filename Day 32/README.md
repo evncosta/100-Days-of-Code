@@ -1,7 +1,7 @@
 # Automated Birthday Wisher Project
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate%2B-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 An automated system that sends personalized birthday emails using scheduled scripts and email templates. This project was completed as part of **Day 32** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
