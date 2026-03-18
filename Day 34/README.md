@@ -1,7 +1,7 @@
 # Quizzler App
 
 ![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate%2B-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 A modern trivia quiz application that fetches questions from the Open Trivia Database API and presents them in an elegant GUI interface. This project was completed as part of **Day 34** of the "100 Days of Code: The Complete Python Pro Bootcamp" course.
