@@ -72,7 +72,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 33 | Intermediate+ | API Endpoints & API Parameters - ISS Overhead Notifier | ISS Overhead Notifier Project | ✅ Complete |
 | 34 | Intermediate+ | API Practice - Creating a GUI Quiz App | Quizzler App Project | ✅ Complete |
 | 35 | Intermediate+ | Keys, Authentication & Environment Variables: Send SMS | Rain Alert Project | ✅ Complete |
-| 36 | Intermediate+ | - | Stock Trading News Alert Project | 🔄 In Progress |
+| 36 | Intermediate+ | - | Stock Trading News Alert Project | ✅ Complete |
+| 37 | Intermediate+ | API Post Requests & Headers | Habit Tracking Project | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
