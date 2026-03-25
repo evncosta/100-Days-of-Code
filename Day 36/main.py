@@ -3,8 +3,8 @@ import requests
 from twilio.rest import Client
 
 # Twilio configuration
-VIRTUAL_TWILIO_NUMBER = "your virtual twilio number"
-VERIFIED_NUMBER = "your own phone number verified with Twilio"
+VIRTUAL_TWILIO_NUMBER = "YOUR VIRTUAL TWILIO NUMBER"
+VERIFIED_NUMBER = "YOUR OWN PHONE NUMBER VERIFIED WITH TWILIO"
 
 # Stock and company configuration
 STOCK_NAME = "TSLA"
