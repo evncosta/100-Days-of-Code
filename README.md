@@ -73,7 +73,8 @@ This intensive programming bootcamp covers a wide range of technologies and conc
 | 34 | Intermediate+ | API Practice - Creating a GUI Quiz App | Quizzler App Project | ✅ Complete |
 | 35 | Intermediate+ | Keys, Authentication & Environment Variables: Send SMS | Rain Alert Project | ✅ Complete |
 | 36 | Intermediate+ | - | Stock Trading News Alert Project | ✅ Complete |
-| 37 | Intermediate+ | API Post Requests & Headers | Habit Tracking Project | 🔄 In Progress |
+| 37 | Intermediate+ | API Post Requests & Headers | Habit Tracking Project | ✅ Complete |
+| 38 | Intermediate+ | Workout Tracking Using Google Sheets | Workout Tracking Project | 🔄 In Progress |
 
 ## 🛠️ Technologies Used
 
